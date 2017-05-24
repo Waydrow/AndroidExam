@@ -1,7 +1,7 @@
 ## 爱特 Android 部门考核
 
 ### 接口
-查看 `interface.md`
+点击链接查看 [interface](https://github.com/Waydrow/AndroidExam/blob/master/interface.md)
 
 ### 列表
 - 通过网络请求获取知乎专栏的文章列表, 并使用 RecyclerView/ListView 呈现
